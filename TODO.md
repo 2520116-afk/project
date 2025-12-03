@@ -3,17 +3,31 @@
 *Project Start Date:* 2025-12-03
 
 ## Steps:
-- [ ] Create project repository  
-  Initialize the GitHub repository for the project.
 
-- [ ] Add basic To-Do list  
-  List all tasks with short descriptions and track progress.
 
-- [ ] Write project proposal  
-  Prepare initial proposal in Word describing project idea.
+- [ ] Design database  
+  Create MySQL tables for storing student information.
 
-- [ ] Upload proposal to GitHub  
-  Attach Word file in repo for teacher’s review.
+- [ ] Build website frontend  
+  Create HTML/CSS/JavaScript pages for student management.
 
-- [ ] Update steps as project progresses  
-  Modify tasks or mark them done when work is completed.
+- [ ] Implement backend functionality  
+  Use PHP/Node.js/Python to connect website with MySQL database.
+
+- [ ] Admin login system  
+  Add secure authentication for administrators.
+
+- [ ] Dashboard  
+  Display important statistics and information for admins.
+
+- [ ] CRUD operations for students  
+  Implement Add, Update, Delete, and View student records.
+
+- [ ] Test all features  
+  Ensure the website works correctly with database integration.
+
+- [ ] Optional enhancements  
+  Add attendance, marks/result system, search/filter, and printable reports.
+
+- [ ] Update To-Do list as work progresses  
+  Mark completed tasks and add new ones if needed.
