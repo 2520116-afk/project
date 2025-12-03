@@ -3,14 +3,14 @@
 *Project Start Date:* 2025-12-03
 
 ## Steps:
-  Create MySQL tables 
-  Create HTML/CSS/JavaScript pages for student management.
- Implement backend functionality  
+ 1)Create MySQL tables 
+ 2) Create HTML/CSS/JavaScript pages for student management.
+3) Implement backend functionality  
   Use PHP/Node.js/Python to connect website with MySQL database.
-  Admin login system  .
-  Dashboard  
-  CRUD operations for students  
-  Ensure the website works correctly with database integration.
-  Optional enhancements  
+ 4) Admin login system  .
+ 5) Dashboard  
+ 6) CRUD operations for students  
+ 7)Ensure the website works correctly with database integration.
+ 8)Optional enhancements  
   Add attendance, marks/result system, search/filter, and printable reports.
   Mark completed tasks and add new ones if needed.
