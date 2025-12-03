@@ -4,26 +4,25 @@
 
 ## Steps:
 
-
-- [ ] Design database  
+  Design database  
   Create MySQL tables for storing student information.
 
-- [ ] Build website frontend  
+ Build website frontend  
   Create HTML/CSS/JavaScript pages for student management.
 
-- [ ] Implement backend functionality  
+ Implement backend functionality  
   Use PHP/Node.js/Python to connect website with MySQL database.
 
-- [ ] Admin login system  
+ Admin login system  
   Add secure authentication for administrators.
 
-- [ ] Dashboard  
+ Dashboard  
   Display important statistics and information for admins.
 
-- [ ] CRUD operations for students  
+ CRUD operations for students  
   Implement Add, Update, Delete, and View student records.
 
-- [ ] Test all features  
+ Test all features  
   Ensure the website works correctly with database integration.
 
 - [ ] Optional enhancements  
